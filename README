@@ -1,0 +1,3 @@
+Our packer and unpacker works only if the phrase numbers were encoded with the maximum phrase size of 9 bits. 
+When we run our phrase numbers from our unpacker through our decoder, the output is the same apart from the last line.
+Packer and unpacker cannot be piped. Must be ran separately. 
